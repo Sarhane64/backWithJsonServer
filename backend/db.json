@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "ce575110-2616-43e1-bf25-9f37245db64d",
+      "username": "Abner.Herzog24",
+      "email": "Braeden_OConnell66@yahoo.com",
+      "avatar": "https://avatars.githubusercontent.com/u/55459354",
+      "password": "VjP_WmdigfmzRlO",
+      "birthdate": "1996-09-02T03:32:49.702Z",
+      "registeredAt": "2023-10-02T17:28:19.249Z"
+    },
+    {
+      "id": "7d08189c-8750-4b37-ab25-6f18b9c2a92c",
+      "username": "Edward_Hackett60",
+      "email": "Alexis11@gmail.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/934.jpg",
+      "password": "GeYlu3s5FCyETtd",
+      "birthdate": "1975-05-04T08:58:08.583Z",
+      "registeredAt": "2023-04-09T13:25:06.904Z"
+    },
+    {
+      "id": "rtebgrtbrtbntrzsntrntrn1416",
+      "username": "Edward_Hackett60",
+      "email": "Alexis11@gmail.com",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/934.jpg",
+      "password": "GeYlu3s5FCyETtd",
+      "birthdate": "1975-05-04T08:58:08.583Z",
+      "registeredAt": "2023-04-09T13:25:06.904Z"
+    }
+  ],
+  "travels": [
+    {
+      "id": "fb99c8c4-bf90-4898-851e-bd5cd8a5fdef",
+      "country": "Fiji",
+      "timeStaying": 7
+    },
+    {
+      "id": "34595ce8-d22f-498f-a235-4922b87b0787",
+      "country": "Samoa",
+      "timeStaying": 4
+    }
+  ]
+}
